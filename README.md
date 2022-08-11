@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kshitij (Shith-ij)
-- 👀 I’m a PhD student at Drexel University
+- 👀 PhD student at Drexel University
 - 🚀 AI/ML/CV researcher
 - 📫 You can reach me at kshitij.k.research@gmail.com
 
