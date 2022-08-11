@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kshitij (Shith-ij)
-- 👀 I’m interested in applications of deep learning in medicine, education, and agriculture
+- 👀 I’m a PhD student at Drexel University
+- 🚀 AI/ML/CV researcher
 - 📫 You can reach me at kshitij.k.research@gmail.com
 
 <!---
