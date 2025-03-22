@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kshitij (Shith-ij)
 - 👀 PhD student at Drexel University
-- 🚀 AI/ML/CV researcher
-- 📫 You can reach me at kk985@drexel.edu
+- 🚀 ML researcher
+- 📫 You can reach me at kshitijkayastha@gmail.com
 
 <!---
 kshitij-kayastha/kshitij-kayastha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
